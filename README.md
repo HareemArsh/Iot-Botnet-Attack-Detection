@@ -50,8 +50,6 @@ Download it from here[N-BaIoT dataset](https://archive.ics.uci.edu/dataset/442/d
 - Confusion matrix analysis
 - Performance metrics
 
-## Explanation of Output
-Performance analysis highlights the robustness of Random Forest, followed by Isolation Forest and Naive Bayes.
 
 ## Future Work
 Continuous refinement of detection models, exploration of additional features, and integration of real-time threat intelligence are suggested for creating more robust detection systems.
