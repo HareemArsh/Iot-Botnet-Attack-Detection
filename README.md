@@ -14,6 +14,7 @@ Existing literature on supervised detection of IoT botnet attacks, fuzzy rule in
 
 ## Dataset
 The N-BaIoT dataset comprises traffic data from nine IoT devices, containing both benign and attack traffic categorized into ten classes of attacks. Statistical features extracted from packet streams provide rich data for analysis.
+Download it from here[N-BaIoT dataset](https://archive.ics.uci.edu/dataset/442/detection+of+iot+botnet+attacks+n+baiot)
 
 ## Methodology
 ### Data Processing
